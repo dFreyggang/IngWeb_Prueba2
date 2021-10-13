@@ -1,0 +1,60 @@
+body {
+  font-size: 20px;
+  padding: 50px;
+}
+
+#formulario {
+  width: 700px;
+}
+
+#columnaDatosClientes ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#genero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#mujer {
+  margin-left: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+#botones {
+  margin-left: 25%;
+}
+
+#columnaIzquierda {
+  width: 40%;
+}
+
+#agregarHabilidades {
+  margin-top: 500px;
+}
+
+#agregarHabilidades div {
+  border: 1px solid black;
+}
+
+#agregarHabilidades div div {
+  border: 1px solid black;
+  margin: 15px;
+}
+
+#mitadSuperior {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#listaDeClientes tr th {
+  padding-right: 50px;
+}
+/*# sourceMappingURL=estilos.css.map */
